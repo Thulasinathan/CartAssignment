@@ -83,12 +83,6 @@ var shoppingCart = (function() {
     saveCart();
   }
 
-  // Clear cart
-  obj.clearCart = function() {
-    cart = [];
-    saveCart();
-  }
-
   // Count cart 
   obj.totalCount = function() {
     var totalCount = 0;
