@@ -1,0 +1,9 @@
+.card img{
+	padding: 10px;
+    max-height: 259px;
+    object-fit: contain;
+}
+input[type="number"]{
+    padding: 0;
+    text-align: center;
+}
